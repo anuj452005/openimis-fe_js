@@ -26,10 +26,7 @@
             "name": "IndividualModule",
             "npm": "@openimis/fe-individual@https://github.com/openimis/openimis-fe-individual_js#develop"
         },
-        {
-            "name": "SocialProtectionModule",
-            "npm": "@openimis/fe-social_protection@https://github.com/openimis/openimis-fe-social_protection_js#develop"
-        },
+       
         {
             "name": "OpenSearchReportsModule",
             "npm": "@openimis/fe-opensearch_reports@https://github.com/openimis/openimis-fe-opensearch_reports_js#develop"
